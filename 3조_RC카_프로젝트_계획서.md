@@ -33,7 +33,7 @@
 - 실시간 차간거리 그래프와 차량 상태 컴포넌트 제작
 - PyWebView 환경에서 React 화면이 실행되도록 데스크톱 UI 구성
 
-### 권신용 — 팀장 / Backend·통신 인프라 & Dashboard Co-development
+### 주영찬 — 팀장 / Backend·통신 인프라 & Dashboard Co-development
 
 전체 시스템과 데이터 흐름을 총괄하고, 차량 간 통신 및 대시보드 백엔드를 구축한다.
 
