@@ -4,6 +4,7 @@ import time
 import random
 
 # 1. 공개 우체국 주소 사용 (내 PC에 프로그램 설치할 필요 없음!)
+BROKER_ADDRESS = "10.2.105.65"
 BROKER_ADDRESS = "127.0.0.1" ## 권신용 컴퓨터 주소에요
 PORT = 1883
 
